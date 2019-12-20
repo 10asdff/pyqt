@@ -1,3 +1,5 @@
+#Kodların büyük bir kısmı Mustafa Başer (Python) kitabından alınmıştır
+
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
